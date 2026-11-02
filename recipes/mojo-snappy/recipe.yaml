@@ -1,6 +1,6 @@
 context:
-  version: "0.2.0"
-  mojo_version: "==1.0.0"
+  version: "0.2.1"
+  mojo_version: "==1.2.0"
 
 package:
   name: mojo-snappy
@@ -8,7 +8,7 @@ package:
 
 source:
   - git: https://github.com/idlab-discover/mojo-snappy.git
-    rev: 1bb71bec224d3d262d6a542dd872da7f2a665b9c
+    rev: a7751a507f5e54e499ed33c40926ae3a3b586021
 
 build:
   number: 0
